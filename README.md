@@ -2,4 +2,4 @@
 ---
 This is a greenbird first test.
 
-It help me to be familiar with Github.
+It helps me to be familiar with Github.
